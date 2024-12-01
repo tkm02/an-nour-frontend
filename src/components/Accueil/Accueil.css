@@ -1,0 +1,7 @@
+.accueil-dashboard{
+    /* border: 1px solid; */
+    margin-top: 15px;
+}
+.accueil-dashboard-row{
+    display: flex;
+}

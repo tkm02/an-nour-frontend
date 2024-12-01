@@ -1,0 +1,21 @@
+.container-tableau-de-bord{
+    background-color: #f1f1f1;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+    /* border: 1px solid; */
+}
+.row-tableau-de-bord{
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid; */
+    width: 80%;
+}
+.container-tableau-de-bord .first-row-dashboard{
+    width: 20%;
+    background-color: #004576;
+    display: flex;
+    position: relative;
+}
